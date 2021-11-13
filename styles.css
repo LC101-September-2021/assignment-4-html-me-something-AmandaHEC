@@ -1,1 +1,112 @@
 /* Write your CSS here! */
+body {
+    text-align: center;
+    margin: 8px;
+    font-family: 'serif';
+    background-color: rgb(243, 239, 233);
+}
+
+#mainHeading{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(128, 37, 37);
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 0;
+    width: 100%;
+    padding: 50px 50px 100px 100px;   
+    background-color: rgb(209, 209, 180);
+    border-radius: 8px;
+}
+
+main{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+}
+
+.container{
+    padding:2em;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+p{
+    text-align: center;
+    padding: 2em;
+    max-width: 1200px;
+    margin:auto 0;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 200px;
+    font-size: 35px;
+    color: #333;
+   
+}
+h2{
+    text-align: center;
+    color: #333;
+    font-size: 35px;
+    padding: 2em;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h3{
+    text-align: center;
+    color: #333;
+    font-size: 35px;
+    padding: 2em;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h4{
+    text-align: center;
+    color: #333;
+    font-size: 35px;
+    padding: 2em;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h5{
+    text-align: center;
+    color: #333;
+    font-size: 35px;
+    padding: 2em;
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+h6{
+    text-align: center;
+    color: #333;
+    font-size: 35px;
+    padding: 2em;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.button{
+    background-color:brown;
+    color:white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    
+} 
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 8px;
+      }
+    
+.funParagraph{
+    color:rgb(62, 90, 62);
+}
+  
