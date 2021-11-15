@@ -9,7 +9,7 @@ body {
 #mainHeading{
     text-align: center;
     font-size: 50px;
-    color:rgb(128, 37, 37);
+    color:red;
     position: relative;
     top: 0;
     left: 0;
@@ -107,6 +107,6 @@ h6{
       }
     
 .funParagraph{
-    color:rgb(62, 90, 62);
+    color:green;
 }
   
